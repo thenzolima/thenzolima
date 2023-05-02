@@ -1,6 +1,11 @@
-### Olá! 👋
+### Olá! 👋👋👋
 
-Eu me chamo Enzo, sou designer, desenvolvedor front-end & criador de conteúdo.
+Me chamo Enzo, trabalho com:
+- 🐢 Design
+- 🐤 Front-end
+- 🦆 Criação de conteúdo
+
+
 
 ### Principais ferramentas do meu dia a dia:
 
