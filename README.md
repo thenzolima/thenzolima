@@ -1,4 +1,4 @@
-### Olá!👋
+### Olá! 👋
 
 Eu me chamo Enzo, sou designer, desenvolvedor front-end & criador de conteúdo.
 
