@@ -1,17 +1,4 @@
 ### Olá! 👋👋👋
-
-Me chamo Enzo, trabalho com:
-- 🐢 Design
-- 🐤 Front-end
-- 🦆 Criação de conteúdo
+Me chamo Enzo, faço projetos criativos com web-design. Estou cursando o curso técnico integrado de informática no IFBA. Também cuido de um [Jardim Digital](https://jardim.thenzolima.com.br/), lugar dedicado aos meus artigos e ideias.
 
 
-
-### Principais ferramentas do meu dia a dia:
-
-![html](assets/html.svg)
-![css](assets/css.svg)
-![js](assets/javascript.svg)
-![figma](assets/figma.svg)
-![linux](assets/linux.svg)
-![markdown](assets/markdown.svg)
