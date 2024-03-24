@@ -1,5 +1,5 @@
-### Olá! 👋👋👋
-Me chamo Enzo, faço projetos criativos com web-design. Estou fazendo o curso técnico de informática no IFBA. Também cuido de um [Jardim Digital](https://jardim.thenzolima.com.br/), lugar dedicado aos meus artigos e ideias.
+Olá, me chamo Enzo.
 
-- 📚 Estou estudando PHP, MySql e POO em Java.
-- ➡️ Entre em contato: [contato@thenzolima.com.br](mailto:contato@thenzolima.com.br).
+Sou designer de produto focado em experiências Web e Branding.
+
+[Site pessoal](https://www.thenzolima.com.br/)<br>[Contato](mailto:contato@thenzolima.com.br)
