@@ -1,7 +1,7 @@
 Olá! sou Enzo Lima,
 
-Designer de produto focado em Branding e Softwares.
+Product Designer com foco em experiência digital.
 
-Também escrevo artigos, análises e experiências de assuntos que me interessa, como se fosse um backup da minha mente.
+Utilizo do branding e desenvolvimento para transformar ideias em produtos funcionais, acessíveis e visualmente coerentes.
 
 [Site pessoal](https://www.thenzolima.com.br/)<br>[Contato](mailto:contato@thenzolima.com.br)
