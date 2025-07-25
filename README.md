@@ -1,7 +1,5 @@
-Olá! sou Enzo Lima,
+#### `Product Designer focused on digital experience.`
 
-Product Designer com foco em experiência digital.
+I use branding and development to transform ideas into functional, accessible, and visually coherent products.
 
-Utilizo do branding e desenvolvimento para transformar ideias em produtos funcionais, acessíveis e visualmente coerentes.
-
-[Site pessoal](https://www.thenzolima.com.br/)<br>[Contato](mailto:contato@thenzolima.com.br)
+[https://www.thenzolima.com.br/](https://www.thenzolima.com.br/)
